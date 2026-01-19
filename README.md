@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**WadieZN/WadieZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do programming mainly as a hobby.
 
-Here are some ideas to get you started:
+## Who Am I ( in tech )?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 A Full-stack developer  
+🇲🇦 Based in Morocco  
+🚀 Interested in Web and SaaS projects  
+
+## Tech Stack
+
+- JavaScript
+- React / Next.js
+- Node.js
+- SQL / MongoDB
+- P E R N stack is my favourite
+
+I enjoy building things, experimenting with web technologies and small projects just to understand how they work and improve my skills over time.
+
+No buzzwords, no hype. Just learning, coding, and having fun with it 
