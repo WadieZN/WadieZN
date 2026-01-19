@@ -2,14 +2,12 @@
 
 I do programming mainly as a hobby.
 
-## Who Am I ( in tech )?
-
-💻 A Full-stack developer  
-🇲🇦 Based in Morocco  
-🚀 Interested in Web and SaaS projects  
+## Who Am I -- in tech ?
+- A Full-stack developer  
+- Based in Morocco  
+- Interested in Web and SaaS projects  
 
 ## Tech Stack
-
 - JavaScript
 - React / Next.js
 - Node.js
@@ -18,4 +16,4 @@ I do programming mainly as a hobby.
 
 I enjoy building things, experimenting with web technologies and small projects just to understand how they work and improve my skills over time.
 
-No buzzwords, no hype. Just learning, coding, and having fun with it 
+No buzzwords, no hype. Just learning, coding, and having fun with it 😄
