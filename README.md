@@ -2,7 +2,7 @@
 
 I do programming mainly as a hobby.
 
-## Who Am I -- in tech ?
+## Who Am I ? ( in tech world)
 - A Full-stack developer  
 - Based in Morocco  
 - Interested in Web and SaaS projects  
